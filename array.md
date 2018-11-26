@@ -2,11 +2,11 @@
 
 An array(in this case, a dynamic array like a vector in C + + or a list in Python), is an ordered collection of data.
 
-# In Memory
+## In Memory
 
 In memory, an array looks like this: \[TO DO\]
 
-# Operations
+## Operations
 
 An array is capable of:
 
@@ -23,7 +23,7 @@ An array is capable of:
 * **Index/Find:** Find an object in the array and return the index.
     * This operation is O(n) or linear. The find operation compares elements in the array until a match is found.
 
-# Use Cases
+## Use Cases
 
 An array is useful when you want the convenience of instant retrieval / access and know exactly where an object is located in the array.
 
