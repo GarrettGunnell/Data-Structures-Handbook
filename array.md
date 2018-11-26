@@ -34,25 +34,21 @@ Arrays are not so useful when you need to regularly insert and delete data(not a
 In Python:
 
 ```python
+#Instantiation
 example_array = [1, 2, 3, 4]
 
-print(example_array[3])
-
+#Adds 5 to the end of the array
 example_array.append(5)
 
-print(example_array.size())
-
+#Removes 5 from the end of the array
 example_array.pop()
 
-print(example_array.size())
-
+#Inserts a string at index 2
 example_array.insert(2, "INSERT_DATA")
 
-print(example_array[2])
-
+#Removes the string at index 2
 del example_array[2]
 
-print(example_array[2])
-
+#Prints 0 which is the index of 1
 print(example_array.index(1))
 ```
