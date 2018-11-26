@@ -52,3 +52,23 @@ del example_array[2]
 #Prints 0 which is the index of 1
 print(example_array.index(1))
 ```
+
+In C++:
+
+```C++
+//Instantiation
+vector<int> exampleVector = {1, 2, 3, 4};
+
+//Adds 5 to the end of the vector
+exampleVector.push_back(5);
+
+//Removes 5 from the end of the vector
+exampleVector.pop_back(5);
+
+//Insert 0 at front
+auto it = exampleVector.begin(); //Create iterator pointing to desired index
+exampleVector.insert(it, 0);
+
+//Removes 0 from the front
+exampleVector.erase(myvector.begin());
+```
