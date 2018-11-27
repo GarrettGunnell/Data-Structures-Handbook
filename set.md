@@ -13,7 +13,7 @@ A set is capable of:
 * **Add:** Add an element to the set.
     * The average complexity of this operation is O(1) as sets are implemented as hash tables, adding an item to the set is constant. If the hashing function is really, really bad, then the complexity becomes O(n).
 * **Remove:** Delete an element in the set.
-    * Deletion is also O(1) like add and get, but can also degenerate to O(n).
+    * Deletion is also O(1) like add, but can also degenerate to O(n).
 * **In:** Check whether or not the set contains a particular item.
     * Just like add and delete, this operation is also O(1).
 * **Union:** Return a new set with all elements from both sets.
