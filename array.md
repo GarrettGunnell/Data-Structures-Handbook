@@ -1,6 +1,6 @@
 # Array
 
-An array is a fixed, ordered collection of data. When an array is instantiated its size must be declared and it cannot be changed, but contents of the array can be modified.
+An array is a fixed, ordered collection of data and is the base of many different data structures. When an array is instantiated its size must be declared and it cannot be changed, but contents of the array can be modified.
 
 ## In Memory
 
