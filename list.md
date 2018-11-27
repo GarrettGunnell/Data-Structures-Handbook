@@ -1,6 +1,6 @@
 # List / Vector
 
-A list (or a vector in C++) is a dynamic array that is capable of adjusting its size as more data is added to it.
+A list (or a vector in C++) is a dynamic array that is capable of adjusting its size as more data is added to it, in addition, it is also capable of many more operations than the basic array.
 
 ## In Memory
 
