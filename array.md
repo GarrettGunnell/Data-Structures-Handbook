@@ -1,6 +1,6 @@
 # Array
 
-An array(in this case, a dynamic array like a vector in C + + or a list in Python), is an ordered collection of data.
+An array(in this case, a dynamic array like a vector in C++ or a list in Python), is an ordered collection of data.
 
 ## In Memory
 
@@ -72,3 +72,4 @@ exampleVector.insert(it, 0);
 //Removes 0 from the front
 exampleVector.erase(myvector.begin());
 ```
+
