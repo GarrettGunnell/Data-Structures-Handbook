@@ -6,7 +6,7 @@ An array is a fixed, ordered collection of data and is the base of many differen
 
 In memory, an array looks like this:
 
-![Image of Array in memory](array.png)
+![Image of Array in memory](images/array.png)
 
 ## Operations
 
