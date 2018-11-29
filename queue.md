@@ -1,6 +1,6 @@
 # Queue
 
-A queue is a structure built on an underlying container of ordered items that operates in a first-in first-out basis. Items added to the queue are added to the back of the line, while removal only happens from the front of the line.
+A queue is a structure built on an underlying container of ordered items (dependent on implementation) that operates in a first-in first-out basis. Items added to the queue are added to the back of the line, while removal only happens from the front of the line.
 
 ## In Memory
 
