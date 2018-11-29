@@ -25,6 +25,8 @@ Linked lists are not so useful when you need quick access of data in the list.
 
 ## Examples
 
+In Python:
+
 ```python
 #Instantiation
 example_linkedlist = LinkedList()
@@ -47,3 +49,7 @@ A more "advanced" implementation of linked list that, at the cost of more data u
 ## In Memory
 
 In memory, a circular doubly linked list looks like: \[TO DO\]
+
+## Operations
+
+A circular doubly linked list has all of the same operations as a linked list, but insertion at the tail becomes instant since the head of the list points to the tail (allowing for append and pop operations).
