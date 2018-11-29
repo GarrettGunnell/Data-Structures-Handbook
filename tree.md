@@ -4,7 +4,9 @@ A tree is a linear collection of nodes that point to their childen. A parent nod
 
 ## In Memory
 
-In memory, a tree looks like: \[TO DO\]
+In memory, a tree looks like:
+
+![Image of a tree in memory](images/tree.png)
 
 # Binary Search Tree
 
@@ -12,7 +14,9 @@ A binary search tree is a tree inserts data based on value, smaller values are i
 
 ## In Memory
 
-In memory, a binary search tree looks like: \[TO DO\]
+In memory, a binary search tree looks like:
+
+![Image of a Binary Tree in memory](images/binary_tree.png)
 
 ## Operations
 
@@ -65,7 +69,9 @@ A binary heap, while represented as a tree, is actually dependent on an underlyi
 
 ## In Memory
 
-In memory, a binary heap looks like: \[TO DO\]
+In memory, a binary heap looks like:
+
+![Image of a binary heap in memory](images/binary_heap.png)
 
 ## Operations
 

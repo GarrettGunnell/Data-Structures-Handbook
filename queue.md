@@ -4,7 +4,9 @@ A queue is a structure built on an underlying container of ordered items (depend
 
 ## In Memory
 
-In memory, a queue looks like: \[TO DO\]
+In memory, a queue looks like:
+
+![Image of Queue in Memory](images/queue.png)
 
 
 ## Operations

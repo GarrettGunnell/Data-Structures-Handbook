@@ -6,6 +6,8 @@ A graph is a collection of nodes (called vertices) connected through edges, edge
 
 In memory, a graph looks like:
 
+![Image of Graph in memory](images/graph.png)
+
 ## Operations
 
 A graph is capable of:

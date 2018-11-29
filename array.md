@@ -4,7 +4,9 @@ An array is a fixed, ordered collection of data and is the base of many differen
 
 ## In Memory
 
-In memory, an array looks like this: \[TO DO\]
+In memory, an array looks like this:
+
+![Image of Array in memory](array.png)
 
 ## Operations
 

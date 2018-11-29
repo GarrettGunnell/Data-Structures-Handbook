@@ -4,7 +4,9 @@ A set is an unordered collection of unique data. Unlike an array, a set is unord
 
 ## In Memory
 
-In memory, a set looks like: \[TO DO\]
+In memory, a set looks like:
+
+![Image of a set in memory](images/hash_table.png)
 
 ## Operations
 

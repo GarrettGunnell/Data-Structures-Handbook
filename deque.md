@@ -4,7 +4,9 @@ A deque (double ended queue) is a queue that can add and remove items from both 
 
 ## In Memory
 
-In memory, a deque looks like: \[TO DO\]
+In memory, a deque looks like:
+
+![Image of Deque in memory](images/deque.png)
 
 ## Operations
 

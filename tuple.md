@@ -4,7 +4,9 @@ A tuple is a fixed, ordered collection of data that is immutable. A tuple's elem
 
 ## In Memory
 
-In memory a tuple looks like this: \[TO DO\]
+In memory a tuple looks like this:
+
+![Image of a tuple in memory](images/array.png)
 
 ## Operations
 

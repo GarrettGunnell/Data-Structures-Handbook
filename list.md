@@ -6,6 +6,7 @@ A list (or a vector in C++) is a dynamic array that is capable of adjusting its 
 
 In memory a list or vector looks like this: \[TO DO\]
 
+![Image of a list/vector in memory](images/array.png)
 ## Operations
 
 A list or vector is capable of:

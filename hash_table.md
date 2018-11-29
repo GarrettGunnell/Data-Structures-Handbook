@@ -6,6 +6,8 @@ A hash table is a collection of items which are stored in a way that is easy to 
 
 In memory, a hash table looks like:
 
+![Image of a Hash Table in memory](images/hash_table.png)
+
 ## Operations
 
 A hash table is capable of:

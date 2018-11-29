@@ -4,7 +4,9 @@ A linked list is an unordered collection of data composed of nodes that contain 
 
 ## In Memory
 
-In memory, a linked list looks like: \[TO DO\]
+In memory, a linked list looks like:
+
+![Image of a Linked List in memory](images/linked_list.png)
 
 ## Operations
 

@@ -4,7 +4,9 @@ A stack is a data structure built on an underlying container such as a list or v
 
 ## In Memory
 
-A stack in memory looks like this: \[TO DO\]
+A stack in memory looks like this:
+
+![Image of a stack in memory](images/stack.png)
 
 ## Operations
 
